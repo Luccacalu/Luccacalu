@@ -1,6 +1,6 @@
 ### Olá, pessoal!
 ### Bem vindos ao ReadMe de Luccacalu, o próprio eu 😬
-Meu nome é Lucca Lobo, sou estudante de Ciência da Computação na UFBA.
+Meu nome é Lucca Lobo, sou estudante de Ciência da Computação na UFBA. \n
 Atualmente estou me aprofundando em Next.JS e Strapi. Tenho conhecimentos gerais em Bootstrap, JavaScript, TypeScript, React, HTML e CSS. Minha maior proficiência está em Front End.
 Faço parte da TITAN, Empresa JR de computação na Bahia, onde trabalho em projetos como Landing Page, E-Commerce e Blogs.
 

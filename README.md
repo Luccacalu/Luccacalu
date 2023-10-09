@@ -1,12 +1,24 @@
-### Olá, pessoal!
-### Bem vindos ao ReadMe de Luccacalu, o próprio eu 
-<div>Meu nome é Lucca Lobo, sou estudante de Ciência da Computação na UFBA.</div>
-<div>Atualmente estou me aprofundando em Next.JS e Strapi. Tenho conhecimentos gerais em Bootstrap, JavaScript, TypeScript, React, HTML e CSS. Minha maior proficiência está em Front End.</div>
-<div>Faço parte da TITAN, Empresa JR de computação na Bahia, onde trabalho em projetos como Landing Page, E-Commerce e Blogs.</div>
+# 👋 Olá, sou @Luccacalu!
 
-Contatos:
-<div>
-<a href="https://www.instagram.com/theluccalobo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luccalobo.goncalves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucca-giovanni-lobo-511497212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🧭 Minha Trajetória
+
+Numa era impulsionada pela tecnologia, comecei minha aventura como **Desenvolvedor Front-end** na **TITAN**, me envolvendo na missão de criar e aplicar experiências digitais. Com o tempo, ampliei minha atuação me tornando **Gerente de Front-End**, agindo como **Product Owner** em múltiplos projetos, cultivando expertise em ferramentas e práticas como **Scrum**, **Git Flow**, **React** e **Next.js**. Em minha jornada, priorizo a harmonia entre design e funcionalidade, buscando a entrega de soluções que suprem as expectativas tanto no front-end quanto no back-end.
+
+## 🛠 Habilidades & Ferramentas
+
+- **Backend:** Strapi, GraphQL, PostgreSQL, Node.js
+- **Frontend:** React, Next.js, Bootstrap, Tailwind, Angular
+- **Linguagens:** TypeScript, HTML, CSS, JavaScript (ECMAScript6+)
+- **Metodologias:** Scrum, Git Flow
+- **Idiomas:** Português (Nativo), Inglês (Avançado)
+
+## 📞 Contatos
+
+Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theluccalobo/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccalobo.goncalves@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-lobo/)
+
+🔗 Além disso, convido você a se conectar comigo e a explorar mais sobre minha jornada e projetos aqui no [GitHub](https://github.com/Luccacalu).
+

@@ -12,6 +12,10 @@ Numa era impulsionada pela tecnologia, comecei minha aventura como **Desenvolved
 - **Metodologias:** Scrum, Git Flow
 - **Idiomas:** Português (Nativo), Inglês (Avançado)
 
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats-alpha-beryl-31.vercel.app/api/top-langs/?username=Luccacalu&layout=donut&theme=radical)](https://github.com/Luccacalu/github-readme-stats)
+
 ## 📞 Contatos
 
 Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:

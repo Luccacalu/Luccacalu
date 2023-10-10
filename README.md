@@ -14,7 +14,7 @@ Numa era impulsionada pela tecnologia, comecei minha aventura como **Desenvolved
 
 ## 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats-alpha-beryl-31.vercel.app/api/top-langs/?username=Luccacalu&layout=donut&theme=radical)](https://github.com/Luccacalu/github-readme-stats)
+[![Top Langs](https://github-readme-stats-qqjz7hnxt-luccacalu.vercel.app/api/top-langs/?username=Luccacalu&layout=donut&theme=radical)](https://github.com/Luccacalu/github-readme-stats)
 
 ## 📞 Contatos
 

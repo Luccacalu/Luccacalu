@@ -14,7 +14,7 @@ Numa era impulsionada pela tecnologia, comecei minha aventura como **Desenvolved
 
 ## 📊 Estatísticas
 
-[![Stats de Luccacalu](https://github-readme-stats.vercel.app/api?username=luccacalu)](https://github.com/luccacalu/github-readme-stats)
+[![Stats de Luccacalu](https://github-readme-stats-alpha-beryl-31.vercel.app/api?username=luccacalu)](https://github.com/luccacalu/github-readme-stats)
 
 ## 📞 Contatos
 

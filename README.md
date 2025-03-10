@@ -2,11 +2,15 @@
 
 ## 🧭 Minha Trajetória
 
-Numa era impulsionada pela tecnologia, comecei minha aventura como **Desenvolvedor Front-end** na **TITAN**, me envolvendo na missão de criar e aplicar experiências digitais. Com o tempo, ampliei minha atuação me tornando **Gerente de Front-End**, agindo como **Product Owner** em múltiplos projetos, cultivando expertise em ferramentas e práticas como **Scrum**, **Git Flow**, **React** e **Next.js**. Em minha jornada, priorizo a harmonia entre design e funcionalidade, buscando a entrega de soluções que suprem as expectativas tanto no front-end quanto no back-end.
+## Sobre Mim  
+
+Iniciei minha trajetória na **TITAN** como **Gerente de Front-End**, onde atuei na liderança de projetos e em capacitações voltadas ao desenvolvimento web. Durante esse período, aprofundei meus conhecimentos em boas práticas, metodologias ágeis e otimização de interfaces para proporcionar experiências digitais eficientes.  
+
+Atualmente, faço parte da **Warlocks** como **Desenvolvedor Full Stack**, focando no desenvolvimento de **APIs**, **aplicações web** e **bots**. Trabalho com tecnologias modernas como **Next.js**, **Tailwind**, **Prisma**, **Discord.js** e **NestJS**, buscando sempre a melhor performance, escalabilidade e usabilidade nos projetos que entrego. Meu objetivo é alinhar tecnologia e inovação para criar soluções robustas e eficazes.  
 
 ## 🛠 Habilidades & Ferramentas
 
-- **Backend:** Strapi, GraphQL, PostgreSQL, Node.js
+- **Backend:** Strapi, GraphQL, PostgreSQL, Node.js, NestJS
 - **Frontend:** React, Next.js, Bootstrap, Tailwind, Angular
 - **Linguagens:** TypeScript, HTML, CSS, JavaScript (ECMAScript6+)
 - **Metodologias:** Scrum, Git Flow

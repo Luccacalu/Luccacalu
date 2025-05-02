@@ -10,8 +10,8 @@ Atualmente, faço parte da **Warlocks** como **Desenvolvedor Full Stack**, focan
 
 ## 🛠 Habilidades & Ferramentas
 
-- **Backend:** Strapi, GraphQL, PostgreSQL, Node.js, NestJS
-- **Frontend:** React, Next.js, Bootstrap, Tailwind, Angular
+- **Backend:** Strapi, GraphQL, PostgreSQL, Node.js, NestJS, Prisma ORM
+- **Frontend:** React, Next.js, Bootstrap, Tailwind, Formik
 - **Linguagens:** TypeScript, HTML, CSS, JavaScript (ECMAScript6+)
 - **Metodologias:** Scrum, Git Flow
 - **Idiomas:** Português (Nativo), Inglês (Avançado)
@@ -20,7 +20,6 @@ Atualmente, faço parte da **Warlocks** como **Desenvolvedor Full Stack**, focan
 
 Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theluccalobo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccalobo.goncalves@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-lobo/)
 

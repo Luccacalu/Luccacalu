@@ -6,7 +6,7 @@
 
 Iniciei minha trajetória na **TITAN** como **Gerente de Front-End**, onde atuei na liderança de projetos e em capacitações voltadas ao desenvolvimento web. Durante esse período, aprofundei meus conhecimentos em boas práticas, metodologias ágeis e otimização de interfaces para proporcionar experiências digitais eficientes.  
 
-Atualmente, faço parte da **Warlocks** como **Desenvolvedor Full Stack**, focando no desenvolvimento de **APIs**, **aplicações web** e **bots**. Trabalho com tecnologias modernas como **Next.js**, **Tailwind**, **Prisma**, **Discord.js** e **NestJS**, buscando sempre a melhor performance, escalabilidade e usabilidade nos projetos que entrego. Meu objetivo é alinhar tecnologia e inovação para criar soluções robustas e eficazes.  
+Recentemente fiz parte da **Warlocks** como **Desenvolvedor Full Stack**, focando no desenvolvimento de **APIs**, **aplicações web** e **bots**. Trabalho com tecnologias modernas como **Next.js**, **Tailwind**, **Prisma**, **Discord.js** e **NestJS**, buscando sempre a melhor performance, escalabilidade e usabilidade nos projetos que entrego. Meu objetivo é alinhar tecnologia e inovação para criar soluções robustas e eficazes.  
 
 ## 🛠 Habilidades & Ferramentas
 
